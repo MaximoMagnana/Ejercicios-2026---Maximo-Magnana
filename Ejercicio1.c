@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int dato[3];
+int dato[4];
 int main()
 {
     for(int i=0;i<4;i++)
